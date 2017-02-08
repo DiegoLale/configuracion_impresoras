@@ -1,0 +1,8 @@
+Configuracion de impresora del cfr Ourense con extrusor titán de e3d
+Hecho a 4 de febrero de 2017
+Cualquier versión compatible con esa fecha solo necesita sustituír los dos archivos.
+Configuration.h
+Configuration_adv.h 
+
+
+8/febrero 2017 añadida carpeta "consd" faltaba actualizar tarjeta sd
